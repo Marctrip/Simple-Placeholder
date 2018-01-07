@@ -1,0 +1,39 @@
+body {
+	font-family: 		  Cursive, sans-serif;
+	background-color:	  rgba(138,188,159,0.5);
+	margin-left:  		  auto;
+	margin-right: 		  auto;
+	width:        		  1000px;
+}
+
+h1 {
+	background-color: 	  rgba(61,153,100,0.3);
+	border-radius: 	  	  20px 20px 20px 20px;
+	text-align: 	  	  center;
+	margin-bottom: 	  	  100px;
+	font-weight: 	 	  lighter;
+	padding: 		  	  15px 0 15px 0;
+}
+
+section {
+	background-color:	  rgba(61,153,100,0.3);
+	border-radius: 	 	  20px 20px 20px 20px;
+	margin-top: 	  	  -70px;
+	padding: 		  	  15px 15px 15px 15px;
+}
+
+h2 {
+	font-weight: 	      lighter;
+}
+
+li {
+	list-style: 	      none;
+	 font-family: 	      Arial, sans-serif;
+	 font-size:  	      100%;
+	 color: 		      black;
+	 background-image:    url(github-logo.png);
+	 background-repeat:   no-repeat;
+	 background-position: 0 0.1em;
+	 padding-left: 		  23px;
+	 padding-bottom: 	  10px;
+}
